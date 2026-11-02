@@ -7,7 +7,7 @@ app.use(express.json());
 
 mongoose
   .connect(
-    "mongodb+srv://nodejs2603:ATOfvamnBfSbjxPC@cluster0.hwgsmpr.mongodb.net/todo",
+    "mongodb+srv://sagornode15:u7SxafFGDUEJwprR@cluster0.htkfast.mongodb.net/todo",
   )
   .then(() => console.log("Database Connected!"));
 
